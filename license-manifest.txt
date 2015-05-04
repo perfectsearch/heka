@@ -1,0 +1,43 @@
+streadway/amqp    
+	BSD 2 clause    https://github.com/streadway/amqp/blob/master/LICENSE
+bitly/go-simplejson   
+	BSD 3 clause?		https://github.com/bitly/go-simplejson/blob/master/LICENSE
+mozilla-services/heka
+	MPL V2			https://github.com/mozilla-services/heka/blob/dev/LICENSE.txt
+mozilla-services/heka-docs
+	No License, base heka license is implied
+mozilla-services/heka-mozsvc-plugins
+	No License, base heka license is implied
+thoj/go-ircevent
+	Same License as Go-Language	https://github.com/thoj/go-ircevent/blob/master/LICENSE
+crowdmob/goamz
+	LGPLv3			https://github.com/crowdmob/goamz/blob/master/LICENSE
+feyeleanor/slices
+	BSD 3 clause?	https://github.com/feyeleanor/slices/blob/master/LICENSE
+feyeleanor/sets
+	BSD 3 clause?	https://github.com/feyeleanor/sets/blob/master/LICENSE
+feyeleanor/raw
+	BSD 3 clause?	https://github.com/feyeleanor/sets/blob/master/LICENSE
+bbangert/toml
+	WTFPL 			(WARNING: CONTAINS EXPLITIVES)https://github.com/bbangert/toml/blob/master/COPYING
+crankycoder/g2s
+    No License
+crankycoder/xmlpath
+	LGPLv3			https://github.com/crankycoder/xmlpath/blob/master/LICENSE
+getsentry/raven-go
+	BSD	4 clause	https://github.com/getsentry/raven-go/blob/master/LICENSE
+rafrombrc/gospec
+	Apache License V2.0	https://github.com/rafrombrc/gospec/blob/master/LICENSE.txt
+rafrombrc/go-notify
+	No License
+rafrombrc/go-dockerclient
+	BSD 4 clause?		https://github.com/rafrombrc/go-dockerclient/blob/master/LICENSE
+rafrombrc/gomock
+	Apache License V2.0	https://github.com/rafrombrc/gomock/blob/master/LICENSE
+rafrombrc/whisper-go
+	Apache License V2.0	https://github.com/rafrombrc/whisper-go/blob/master/LICENSE
+	
+code.google.com/p/go-uuid
+	BSD 4 clause		https://code.google.com/p/go-uuid/source/browse/uuid/LICENSE
+code.google.com/p/gogoprotobuf
+	BSD 4 clause?		https://code.google.com/p/gogoprotobuf/source/browse/LICENSE

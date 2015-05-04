@@ -1,0 +1,19 @@
+# ss component
+
+[component dependencies]
+buildscripts: code
+
+[misc]
+targeted platforms: linux
+terminal dependency:
+
+[build tools]
+rpmbuild: any, linux, rpmbuild --version, Run 'yum install rpm-build' on yum-based distros
+golang: any, linux, go version, Run 'yum install golang' on yum-based distros
+git: any, linux, git version, Run 'yum install git' on yum-based distros
+hg: any, linux, hg version, Run 'yum install hg' on yum-based distros
+
+[test tools]
+
+[run tools]
+
